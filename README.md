@@ -6,8 +6,11 @@ pieces on the the game board
 to play the game, get into filler directory using your terminal and run the sh script:
 =>sh test.sh
 
-**Map00**
-![signup image](/screenshots/map00.png)
 
-**Map00**
-![signup image](/screenshots/map01.png)
+![map00 image](/screenshots/map00.png)
+
+
+![map01 image](/screenshots/map01.png)
+
+
+![map02 image](/screenshots/map00.png)
