@@ -8,3 +8,6 @@ to play the game, get into filler directory using your terminal and run the sh s
 
 **Map00**
 ![signup image](/screenshots/map00.png)
+
+**Map00**
+![signup image](/screenshots/map01.png)
